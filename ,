@@ -1,0 +1,8 @@
+
+function prompt(){
+
+console,log("helo I am here");
+
+}
+
+prompt();
